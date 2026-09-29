@@ -1,0 +1,11 @@
+id,name,age,email,city,signup_date
+1,  张三 ,28,zhangsan@example.com,北京,2024-01-15
+2,李四,,LISI@Example.com, 上海 ,2024-02-01
+3,王五,35,wangwu@example,广州,2024/03/10
+4,赵六,42,zhaoliu@example.com,beijing,2024-03-22
+5,张三,28,ZhangSan@Example.com ,北京,2024-01-15
+6,孙七,abc,sunqi@example.com,深圳,not a date
+7,周八,31,zhouba@example.com,上海市,2024-04-18
+8, 吴九,,wujiu@example.com,shanghai,2024-05-02
+9,郑十,26,,广州,2024-05-20
+10,钱十一,150,qian11@example.com,深圳,2024-06-01
